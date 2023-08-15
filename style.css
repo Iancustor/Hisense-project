@@ -947,6 +947,7 @@ select {
     align-items: center;
     justify-content: center;
     margin-top: 0px;
+    padding-left: 0.4rem;
   }
 
   a img {
