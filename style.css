@@ -720,6 +720,9 @@ select {
 }
 
 @media (max-width: 679.986px) {
+  .developers {
+    display: block;
+  }
   .category-container {
     width: 100%;
     margin-right: 3rem;
@@ -874,6 +877,9 @@ select {
 }
 
 @media (max-width: 479.986px) {
+  .developers {
+    display: block;
+  }
   .hero-img img {
     width: 365px;
     height: 140px;
@@ -1062,6 +1068,9 @@ select {
 }
 
 @media (max-width: 379px) {
+  .developers {
+    display: block;
+  }
   .hero-img img {
     width: 340px;
     height: 140px;
