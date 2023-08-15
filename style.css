@@ -1081,7 +1081,7 @@ select {
   .hero-images {
     width: 100%;
     display: grid;
-    margin-left: 0.4rem;
+    margin-left: 0.7rem;
     grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
     gap: 5px;
   }
@@ -1110,8 +1110,7 @@ select {
   .category-details {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(127px, 1fr));
-    margin-right: 2rem;
-
+    margin-right: 1.5rem;
     place-items: center;
   }
 
@@ -1195,5 +1194,11 @@ select {
     grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
     gap: 0.4rem;
     padding-left: 0px;
+  }
+  .developers {
+    display: block;
+    display: grid;
+    place-items: center;
+    margin-bottom: 1rem;
   }
 }
